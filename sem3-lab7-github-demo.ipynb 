@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyON2n0pBO5HoZn9rrJ81W3h",
+      "authorship_tag": "ABX9TyOzOAFfTGh4yx0cblvyJAOK",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -51,21 +51,27 @@
     },
     {
       "cell_type": "code",
-      "source": [],
+      "source": [
+        "name = \"Your Name\"\n",
+        "print(f\"Hello, {250191601044}! This is version 2 of my notebook.\")\n"
+      ],
       "metadata": {
-        "id": "fVjByrhBaNhl"
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "INICgOmES2zh",
+        "outputId": "2461a33f-3967-4348-9599-1b866448937f"
       },
-      "execution_count": null,
-      "outputs": []
-    },
-    {
-      "cell_type": "code",
-      "source": [],
-      "metadata": {
-        "id": "INICgOmES2zh"
-      },
-      "execution_count": null,
-      "outputs": []
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello, 250191601044! This is version 2 of my notebook.\n"
+          ]
+        }
+      ]
     }
   ]
 }
